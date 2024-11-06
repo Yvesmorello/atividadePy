@@ -1,4 +1,4 @@
 Ana,CampanhaDigital 
 Bruno,AppMobile 
 Carla,ECommerce 
-Davi,CampanhaDigital
+Davi,CampanhaDigita
